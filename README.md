@@ -65,15 +65,6 @@ Automatic fault isolation
 GPS-based fault location
 Cloud data monitoring
 Mobile application support
-Folder Description
-code/
-Contains Arduino source code.
-
-images/
-Contains project images.
-
-documentation/
-Contains report and presentation.
 
 hardware/
 Contains component list.
